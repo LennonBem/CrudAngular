@@ -1,0 +1,10 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+}
+
+.footer .dev-title{
+position: fixed;
+    right: 10px;
+}
